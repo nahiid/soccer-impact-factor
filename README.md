@@ -1,46 +1,5 @@
-# Project 1
+Project Overview
+This project aims to evaluate the impact of soccer passes made by individual players and the team as a whole using the Metrica Sports dataset. The primary objective is to calculate an "impact factor" for each pass, which will help in assessing the effectiveness of passes. The impact factor will be a numeric value. Additionally, this project involves choosing Game 2 of one of the three matches from the dataset.
 
-
-If forking/cloning this repository, remember to set it to “private”.
-Then when submitting your assignment/project, share it with me ([jwsmith@wyattai.com](mailto:jwsmith@wyattai.com)).
-
-Please full out the relevant information below.
-
-## Resources
-Snippets of code used from Laurie Shaw's:
-<https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking>
-
-__Remember to clone the Metrics Sports data repository so you have access to their great tracking data.__
-
-<https://github.com/metrica-sports/sample-data>
-
-## Brief description of Assignment/Project
-
-Evaluation of passes - how to assign value to different passes.
-
-## Group Members And Contributions
-
-## Setup
-
-If using `pyenv` virtual env:
-
-```shell
-python -m venv env
-source env/bin/activate
-```
-
-Otherwise activate your conda environment.
-
-From your virtual environment:
-
-```shell
-pip install -r requirements.txt
-```
-
-Get the data:
-
-```shell
-git clone https://github.com/metrica-sports/sample-data
-```
-
-## Extra Comments
+Why is this Metric Interesting?
+The impact factor provides a quantitative measure of the effectiveness of soccer passes, allowing coaches and analysts to understand how well players and teams perform in outplaying opposing players. This information is crucial for strategic decision-making and player evaluation.
