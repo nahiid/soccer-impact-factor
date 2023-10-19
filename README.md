@@ -2,11 +2,13 @@
 
 ## Table of Contents
 
-- [Data Source](#data-source)
-- [Directory Structure](#directory-structure)
+
+
 - [Project Overview](#project-overview)
 - [Why is this Metric Interesting?](#why-is-this-metric-interesting)
 - [Getting Started](#getting-started)
+- [Directory Structure](#directory-structure)
+- [Data Source](#data-source)
 ---
 
 ## Project Overview
@@ -47,6 +49,4 @@ LICENSE:
 The data for this project is sourced from the Metrica Sports dataset, which provides detailed tracking data for soccer matches. You can access the dataset [here](https://github.com/metrica-sports/sample-data).
 
 ---
-
-## Project Structure
 
