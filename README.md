@@ -32,6 +32,8 @@ For More info Please Read the Report.pdf
    ```bash
    git clone https://github.com/nahiid/soccer-impact-factor.git
 2. Clone the dataset repository in src folder.
+   ```bash
+   git clone https://github.com/metrica-sports/sample-data.git
 
 ## Directory Structure
 The repository has the following structure:
