@@ -26,7 +26,7 @@ The impact factor provides a quantitative measure of the effectiveness of soccer
 
 ## Data Source
 
-The data for this project is sourced from the Metrica Sports dataset, which provides detailed tracking data for soccer matches. You can access the dataset [here]([link-to-dataset](https://github.com/metrica-sports/sample-data)https://github.com/metrica-sports/sample-data).
+The data for this project is sourced from the Metrica Sports dataset, which provides detailed tracking data for soccer matches. You can access the dataset [here](https://github.com/metrica-sports/sample-data).
 
 ---
 
