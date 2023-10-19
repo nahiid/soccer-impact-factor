@@ -34,6 +34,10 @@ For More info Please Read the Report.pdf
 2. Clone the dataset repository in src folder.
    ```bash
    git clone https://github.com/metrica-sports/sample-data.git
+   
+3. Install Requierments.
+   ```bash
+   pip install -r requirements.txt
 
 ## Directory Structure
 The repository has the following structure:
