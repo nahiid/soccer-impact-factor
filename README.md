@@ -28,7 +28,7 @@ For More info Please Read the Report.pdf
 ### Installation
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/pass-impact-factor.git
+   git clone [https://github.com/your-username/pass-impact-factor.git](https://github.com/nahiid/soccer-impact-factor.git)
 2. Clone the dataset repository in src folder.
 
 ## Directory Structure
