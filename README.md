@@ -40,15 +40,13 @@ For More info Please Read the Report.pdf
    pip install -r requirements.txt
 
 ## Directory Structure
-The repository has the following structure:
+This repository is organized as follows:
 
-src/: includes main file of the project in jupyter notebook. impact_factor.ipynb in src should be the data file
-requirements.txt: List of required Python libraries.
-README.md: Documentation for the code implementation.
-Report: 
-LICENSE:
-.gitignore
-
+- **src/**: This directory contains the main project files, including the Jupyter Notebook named `impact_factor.ipynb`.
+- **requirements.txt**: This file lists all the Python libraries and dependencies required to run the project.
+- **Report**: Includes full explantion of the project.
+- **.gitignore**: This file specifies which files or directories should be ignored by Git.
+- **LICENSE**
 
 ## Data Source
 
