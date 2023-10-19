@@ -1,46 +1,34 @@
-# Project 1
+# Soccer Pass Impact Evaluation
 
+## Project Overview
 
-If forking/cloning this repository, remember to set it to “private”.
-Then when submitting your assignment/project, share it with me ([jwsmith@wyattai.com](mailto:jwsmith@wyattai.com)).
+This project aims to evaluate the impact of soccer passes made by individual players and the team as a whole using the Metrica Sports dataset. The primary objective is to calculate an "impact factor" for each pass, which will help in assessing the effectiveness of passes. The impact factor will be a numeric value. Additionally, this project involves choosing Game 2 of one of the three matches from the dataset.
 
-Please full out the relevant information below.
+## Why is this Metric Interesting?
 
-## Resources
-Snippets of code used from Laurie Shaw's:
-<https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking>
+The impact factor provides a quantitative measure of the effectiveness of soccer passes, allowing coaches and analysts to understand how well players and teams perform in outplaying opposing players. This information is crucial for strategic decision-making and player evaluation.
 
-__Remember to clone the Metrics Sports data repository so you have access to their great tracking data.__
+---
 
-<https://github.com/metrica-sports/sample-data>
+## Table of Contents
 
-## Brief description of Assignment/Project
+- [Data Source](#data-source)
+- [Project Structure](#project-structure)
+- [Data Preprocessing](#data-preprocessing)
+- [Calculating Impact Factor](#calculating-impact-factor)
+- [Choosing the Game](#choosing-the-game)
+- [Results](#results)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-Evaluation of passes - how to assign value to different passes.
+---
 
-## Group Members And Contributions
+## Data Source
 
-## Setup
+The data for this project is sourced from the Metrica Sports dataset, which provides detailed tracking data for soccer matches. You can access the dataset [here](link-to-dataset).
 
-If using `pyenv` virtual env:
+---
 
-```shell
-python -m venv env
-source env/bin/activate
-```
+## Project Structure
 
-Otherwise activate your conda environment.
-
-From your virtual environment:
-
-```shell
-pip install -r requirements.txt
-```
-
-Get the data:
-
-```shell
-git clone https://github.com/metrica-sports/sample-data
-```
-
-## Extra Comments
