@@ -1,4 +1,13 @@
-# Soccer Pass Impact Evaluation
+# Soccer Pass Evaluation
+
+## Table of Contents
+
+- [Data Source](#data-source)
+- [Directory Structure](#directory-structure)
+- [Project Overview](#project-overview)
+- [Why is this Metric Interesting?](#why-is-this-metric-interesting)
+- [Getting Started](#getting-started)
+---
 
 ## Project Overview
 
@@ -7,22 +16,31 @@ This project aims to evaluate the impact of soccer passes made by individual pla
 ## Why is this Metric Interesting?
 
 The impact factor provides a quantitative measure of the effectiveness of soccer passes, allowing coaches and analysts to understand how well players and teams perform in outplaying opposing players. This information is crucial for strategic decision-making and player evaluation.
+For More info Please Read the Report.pdf
 
 ---
+## Getting Started
 
-## Table of Contents
+### Prerequisites
+- Python (version 3.x)
+- Required Python libraries (specified in `requirements.txt`)
 
-- [Data Source](#data-source)
-- [Project Structure](#project-structure)
-- [Data Preprocessing](#data-preprocessing)
-- [Calculating Impact Factor](#calculating-impact-factor)
-- [Choosing the Game](#choosing-the-game)
-- [Results](#results)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+### Installation
+1. Clone this repository to your local machine.
+   ```bash
+   git clone https://github.com/your-username/pass-impact-factor.git
+2. Clone the dataset repository in src folder.
 
----
+## Directory Structure
+The repository has the following structure:
+
+src/: includes main file of the project in jupyter notebook. impact_factor.ipynb in src should be the data file
+requirements.txt: List of required Python libraries.
+README.md: Documentation for the code implementation.
+Report: 
+LICENSE:
+.gitignore
+
 
 ## Data Source
 
